@@ -1,6 +1,6 @@
 # riddlebot
 
-Empty project.
+An attempt to use the Github API [RiddleBot](https://github.com/noops-challenge/riddlebot) and trying to make it fun. This time it's a full React project, too.
 
 ## Building and running on localhost
 
